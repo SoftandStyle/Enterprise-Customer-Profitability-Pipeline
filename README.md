@@ -22,4 +22,5 @@ In enterprise retail, reporting gross sales without factoring in order status le
 ## Business Impact
 Transformed static, manual spreadsheet reporting into an automated pipeline that provides real-time visibility into true cash flow and regional profitability, eliminating reporting overhead and reducing financial blind spots.
 
-<img width="1534" height="866" alt="image" src="https://github.com/user-attachments/assets/1628ed6c-a8a4-43c5-a654-ca80f350b1a8" />
+<img width="1379" height="460" alt="image" src="https://github.com/user-attachments/assets/7c4c0f5c-71ed-466b-9a07-34b9ec4121f5" />
+
